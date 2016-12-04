@@ -1,0 +1,2 @@
+NSString *filePath = [[NSBundle bundleForClass:[self class]] pathForResource:@"asset_name" ofType:@"json" inDirectory:nil];
+NSData *data = [NSData dataWithConte
